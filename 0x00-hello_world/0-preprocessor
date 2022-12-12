@@ -1,3 +1,3 @@
-#!/bin/bash
-CFILE=0-main.c; ./0-preprocessor
+#!/bin/bas
+gcc -E $CFILE -o c 
 
